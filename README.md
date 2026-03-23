@@ -15,3 +15,22 @@
 * https://www.snowflake.com/en/developers/guides/getting-started-with-cortex-aisql/
 * https://www.snowflake.com/en/developers/guides/build-a-visual-idea-generator-with-text-to-image-models/
 * https://github.com/Snowflake-Labs/sfguide-build-genai-hybridtable-app-in-snowpark-container-services
+* https://www.snowflake.com/en/developers/guides/getting-started-with-unstructured-data/
+* https://www.snowflake.com/en/product/use-cases/unstructured-data-analytics/
+* https://www.snowflake.com/en/developers/guides/gain-insights-from-unstructured-data/#0
+* https://www.snowflake.com/en/blog/structuring-unstructured-data-cortex-ai-functions/
+* https://www.snowflake.com/en/developers/guides/getting-started-with-openflow-unstructured-data-pipeline/
+
+#### Documentation
+
+* https://docs.snowflake.com/en/sql-reference/data-types-unstructured
+* https://docs.snowflake.com/en/user-guide/unstructured-intro
+* https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview
+* https://docs.snowflake.com/en/user-guide/snowflake-cortex/ai-audio
+* https://docs.snowflake.com/en/user-guide/snowflake-cortex/ai-documents
+* https://docs.snowflake.com/en/user-guide/snowflake-cortex/ai-images
+* https://docs.snowflake.com/en/user-guide/snowflake-cortex/ai-complete-document-intelligence
+  
+#### Tim Demos
+
+* 
