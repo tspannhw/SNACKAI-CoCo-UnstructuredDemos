@@ -1,5 +1,9 @@
 ### Unstructured Data with Snowflake
 
+
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/706cd196-530f-4729-9b13-496bfa1c6fb0" />
+
+
 #### Examples
 
 * https://www.snowflake.com/en/developers/guides/build-evaluate-rag-langchain-snowflake/
