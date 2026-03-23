@@ -33,4 +33,9 @@
   
 #### Tim Demos
 
-* 
+* https://github.com/tspannhw/SNACKAI-CoCo-NYC-OPSCenter
+* https://github.com/tspannhw/nyccamera
+* https://github.com/tspannhw/SLACKAI-SlackImages
+* https://github.com/tspannhw/nvidiastreaming
+* https://github.com/tspannhw/SnowGhostBreakers
+* https://github.com/tspannhw/TrafficAI
